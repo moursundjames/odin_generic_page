@@ -198,5 +198,10 @@ body {
 
 #footer {
     flex: 0 1 4%;
-    background-color: gold;
+    text-align: center;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 30px;
+    margin: 0;
+
 }
